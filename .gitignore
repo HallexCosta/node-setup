@@ -1,0 +1,14 @@
+# node
+node_modules
+
+# app
+utils/.gitkeep
+@types/.gitkeep
+config/.gitkeep
+
+## yarn
+yarn.lock
+yarn-error.log
+
+# build
+dist
