@@ -16,3 +16,6 @@ yarn-error.log
 
 # build
 dist
+
+# Except this file
+!**/*/.gitkeep
