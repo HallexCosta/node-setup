@@ -2,6 +2,10 @@
 node_modules
 
 # app
+entities/.gitkeep
+providers/implementations/.gitkeep
+repositories/implementations/.gitkeep
+useCases/.gitkeep
 utils/.gitkeep
 @types/.gitkeep
 config/.gitkeep
